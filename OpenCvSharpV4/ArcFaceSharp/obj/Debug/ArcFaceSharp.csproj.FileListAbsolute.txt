@@ -1,0 +1,12 @@
+C:\Users\yumas\Downloads\ArcFaceSharp-283b246f97075b175ec85ce773008d0f2eb181b3\ArcFaceSharp\bin\Debug\ArcFaceSharp.dll
+C:\Users\yumas\Downloads\ArcFaceSharp-283b246f97075b175ec85ce773008d0f2eb181b3\ArcFaceSharp\bin\Debug\ArcFaceSharp.pdb
+C:\Users\yumas\Downloads\ArcFaceSharp-283b246f97075b175ec85ce773008d0f2eb181b3\ArcFaceSharp\obj\Debug\ArcFaceSharp.csprojAssemblyReference.cache
+C:\Users\yumas\Downloads\ArcFaceSharp-283b246f97075b175ec85ce773008d0f2eb181b3\ArcFaceSharp\obj\Debug\ArcFaceSharp.csproj.CoreCompileInputs.cache
+C:\Users\yumas\Downloads\ArcFaceSharp-283b246f97075b175ec85ce773008d0f2eb181b3\ArcFaceSharp\obj\Debug\ArcFaceSharp.dll
+C:\Users\yumas\Downloads\ArcFaceSharp-283b246f97075b175ec85ce773008d0f2eb181b3\ArcFaceSharp\obj\Debug\ArcFaceSharp.pdb
+C:\Users\yumas\Desktop\人脸识别\OpenCvSharpV4\ArcFaceSharp\bin\Debug\ArcFaceSharp.dll
+C:\Users\yumas\Desktop\人脸识别\OpenCvSharpV4\ArcFaceSharp\bin\Debug\ArcFaceSharp.pdb
+C:\Users\yumas\Desktop\人脸识别\OpenCvSharpV4\ArcFaceSharp\obj\Debug\ArcFaceSharp.csprojAssemblyReference.cache
+C:\Users\yumas\Desktop\人脸识别\OpenCvSharpV4\ArcFaceSharp\obj\Debug\ArcFaceSharp.csproj.CoreCompileInputs.cache
+C:\Users\yumas\Desktop\人脸识别\OpenCvSharpV4\ArcFaceSharp\obj\Debug\ArcFaceSharp.dll
+C:\Users\yumas\Desktop\人脸识别\OpenCvSharpV4\ArcFaceSharp\obj\Debug\ArcFaceSharp.pdb
