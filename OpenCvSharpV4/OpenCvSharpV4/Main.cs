@@ -24,8 +24,8 @@ namespace OpenCvSharpV4
         private static string PicSavePath = @"E:\CAM.JPG";
 
         //人脸追踪引擎
-        private static string APPID = "HrSKyCMMH7vx7sqHwNV8evpP3qzjXccnu8mo6WeFZdVU"; 
-        private static string FT_SDKKEY = "D8GoabzvPwuK1ZNw1JCMebVLgM37on4zSrHov5qmwn2R";//32位
+        private static string APPID = "******************************"; 
+        private static string FT_SDKKEY = "" * *****************************";";//32位
         private ArcFaceCore arcFace;
         public Main()
         {
